@@ -1,4 +1,5 @@
 import os
 
-print("hello os")
-print("hello vs code")
+print("hello, vs code")
+
+print("hello, git")
